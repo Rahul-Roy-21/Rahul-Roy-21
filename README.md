@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Roy</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
-
+<img align="right" alt="Cat" width="330" src="https://github.com/kanisht09/kanisht09/blob/master/giphy%20(1).gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-roy-21&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-roy-21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-roy-21" alt="rahul-roy-21" /></a> </p>
