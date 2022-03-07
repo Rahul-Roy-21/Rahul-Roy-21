@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Craftsmen - an Ecommerce-based WebDev Project](https://github.com/Diversion2k22/craftsmen)
 
-- 🌱 I’m currently learning **Competitive Coding and Back-End Development with Django🤩**
+- 🌱 I’m currently learning **Competitive Programming, ReactJS😇 and Django🤩**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rahul-Roy-21/](https://github.com/Rahul-Roy-21/)
 
