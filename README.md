@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Roy</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
+<h3 align="center">A Passionate Web Developer from India</h3>
 <hr>
 <img align="right" alt="Cat" width="330" src="https://github.com/Rahul-Roy-21/Rahul-Roy-21/blob/main/giphy1.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-roy-21&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-roy-21" /> </p>
