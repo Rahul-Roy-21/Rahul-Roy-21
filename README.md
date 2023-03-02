@@ -3,7 +3,7 @@
 <hr>
 <img align="right" alt="Cat" width="330" src="https://github.com/Rahul-Roy-21/Rahul-Roy-21/blob/main/giphy1.gif" />
 
-- 🌱 I’m currently learning **NextJS🤩 with Typescript and Django😇**
+- 🌱 I’m currently learning **Docker🤩 and Microservices😇**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rahul-Roy-21/](https://github.com/Rahul-Roy-21/)
 
