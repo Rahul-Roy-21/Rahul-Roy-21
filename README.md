@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rahul-Roy-21/](https://github.com/Rahul-Roy-21/)
 
-- 💬 Ask me about **Data Structures, ReactJs, Spring, PHP&MySQLI and Django**
-
-- 📫 How to reach me **royrahul0921@gmail.com**
+- 💬 Ask me about **Python, Data Structures, ReactJs, SpringBootJava and Django**
 
 - 📄 Know about my Projects/ Experiences [https://drive.google.com/file/d/1igMLZvRzlkWp1lBdlCuL2yUbgX5KiKuk/view](https://drive.google.com/file/d/1igMLZvRzlkWp1lBdlCuL2yUbgX5KiKuk/view)
 
